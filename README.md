@@ -1,35 +1,30 @@
-# Welcome to GitHub
 
-유레카 프로젝트 팀 생성을 축하합니다.
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=Just%20Code%20It😊&height=300)
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101
 
-## Markdown을 사용하여 내용꾸미기
+# Just Code It
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
+안녕하세요, 유레카 프로젝트 1분반 13조입니다.
+저희 팀의 슬로건인 "**Just Code It**"은 나이키의 슬로건 "Just Do It"에서 착안한 것으로, "**어려운 문제를 마주할 때도 포기하지 말고 도전하자**"는 의미를 담고 있습니다.
+<br/><br/>
 
-```markdown
-Syntax highlighted code block
+## 13조 팀원 소개
 
-# Header 1
-## Header 2
-### Header 3
+|이름|박세현|고다연|양기연|홍석준|
+|:---:|:---:|:---:|:---:|:---:|
+|사진|![박세현](https://github.com/user-attachments/assets/cb32babc-21a8-4539-89b8-99ae770b5b41)|![고다연](https://github.com/user-attachments/assets/31c8b374-8362-4a1f-ad6f-7392a8795552)|![양기연](https://github.com/user-attachments/assets/a071b2fe-a878-41f4-b130-c588c1b7cacf)|[Image]|
+|관심사|빅데이터|웹 개발|컴퓨터비전|게임 개발|
 
-- Bulleted
-- List
+<br/><br/>
 
-1. Numbered
-2. List
+## 학교에서 제공받을 수 있는 기회들
+|경력개발지원단 현장실습 프로그램|산학 협력 프로젝트|커리어위크|PCCP(코딩전문역량인증)|
+|:---:|:---:|:---:|:---:|
+|재학생 직무체험, KMU-ESTsoft 현장실습, ICT 학점연계 프로그램 인턴십에 참여한 학생들이 학점인정을 받을 수 있는 교과목. 실습기간에 따라 전공선택 3-9학점, 일반선택 3-18학점까지 인정된다.|산업체와 학교가 협력하여 진행하는 프로젝트로, 실무 중심의 학습을 통해 실제로 필요한 기술과 문제를 배우고 실무 경험을 쌓을 수 있다.|졸업생간담회, 실리콘밸리 전문가 특강, Great Program 소감발표회, SW+X day, 잡페어 등 여러 프로그램들을 진행하고 이를 통해 소프트웨어와 인공지능 분야의 다양한 업무들과 경력 개발 경로들을 확인하고 미래를 설계할 수 있는 재료를 얻을 수 있는 행사이다.|지원자의 프로그래밍 실력을 평가하는 시험으로 교내 코딩역량 인증 제도는 SW중심대학 사업단에서 운영되고 있으며 PCCP를 통해 학부생들이 본인의 실무 역량을 증명할 수 있도록 하는 제도이다.|
 
-**Bold** and _Italic_ and `Code` text
+<br/><br/>
 
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+## 인상깊었던 활동들
+> ### 허대영 교수님 인터뷰
+>> 
