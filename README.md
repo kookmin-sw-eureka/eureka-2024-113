@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=Just%20Code%20It😊&height=300)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=Just%20Code%20It😊&height=300&color=pink)
 
 
 # Just Code It
