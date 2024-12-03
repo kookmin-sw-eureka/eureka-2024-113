@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=Just%20Code%20It😊&height=300)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=Just%20Code%20It😊&height=300&fontColor=000000)
 
 
 # Just Code It
@@ -13,7 +13,7 @@
 
 |이름|박세현|고다연|양기연|홍석준|
 |:---:|:---:|:---:|:---:|:---:|
-|사진|![박세현](https://github.com/user-attachments/assets/cb32babc-21a8-4539-89b8-99ae770b5b41)|![고다연](https://github.com/user-attachments/assets/31c8b374-8362-4a1f-ad6f-7392a8795552)|![양기연](https://github.com/user-attachments/assets/a071b2fe-a878-41f4-b130-c588c1b7cacf)|[Image]|
+|사진|<img src = "https://github.com/user-attachments/assets/cb32babc-21a8-4539-89b8-99ae770b5b41">|<img src = "https://github.com/user-attachments/assets/31c8b374-8362-4a1f-ad6f-7392a8795552">|<img src = "https://github.com/user-attachments/assets/a071b2fe-a878-41f4-b130-c588c1b7cacf">|[Image]|
 |관심사|빅데이터|웹 개발|컴퓨터비전|게임 개발|
 
 <br/><br/>
