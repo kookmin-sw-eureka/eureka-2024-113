@@ -31,23 +31,12 @@
 
 <br/>
 
-![행정실 인증샷](https://github.com/user-attachments/assets/413ae69f-ff7a-4586-a3d6-7286908b6402)
+![행정실 인증샷](https://github.com/user-attachments/assets/c92aa035-593b-4313-b0b5-4182edc5ca87)![대학원생 인터뷰 인증샷1](https://github.com/user-attachments/assets/c419f9d6-7b78-4ece-8120-a79c138ce310)<br/>
+![서버실 인증샷](https://github.com/user-attachments/assets/4b3bc692-be61-46ea-a8f8-e713167f3cdc)![정통처 인증샷](https://github.com/user-attachments/assets/66e786bc-a23a-4e9b-b34d-3684708f171e)<br/>
+![대학원생 인터뷰 인증샷2](https://github.com/user-attachments/assets/3fab4ee6-7d27-4a34-ab7d-9bafbbc97ff2)![김영욱 교수님 인증샷](https://github.com/user-attachments/assets/f87b72bb-e180-474a-b1bb-2f6b85374ff9)<br/>
+![허대영 교수님 인증샷](https://github.com/user-attachments/assets/aeee75c1-8bf0-4c59-b27c-7541cff969ca)![이경용 교수님 인증샷](https://github.com/user-attachments/assets/aaf8a908-4e3b-4d24-9212-6d0b66b4168a)<br/>
+<img width="200" alt="멘토링 인증샷" src="https://github.com/user-attachments/assets/7cada23c-159b-40b1-8ee2-f839b1b634c2">
 
-![서버실 인증샷](https://github.com/user-attachments/assets/4032106b-f3c2-4a29-b483-2b6e3ed18f96)
-
-![정통처 인증샷](https://github.com/user-attachments/assets/03f4832e-a0fd-4427-a768-7d0c0c680cb3)
-
-![대학원생 인터뷰 인증샷1](https://github.com/user-attachments/assets/04a60543-d841-4ff5-87e2-ef8077298fcd)
-
-![대학원생 인터뷰 인증샷2](https://github.com/user-attachments/assets/a1f60da3-90b8-4fc4-b619-926cf9d98a80)
-
-![김영욱 교수님 인증샷](https://github.com/user-attachments/assets/45881f16-5388-42cf-a4d5-854a64a001fb)
-
-![허대영 교수님 인증샷](https://github.com/user-attachments/assets/988363dc-138d-4f1e-988c-3490149b4e57)
-
-![이경용 교수님 인증샷](https://github.com/user-attachments/assets/01ac2bd3-62ba-4686-8fe7-3cae66626639)
-
-<img width="200" alt="멘토링 인증샷" src="https://github.com/user-attachments/assets/5dc4987c-7939-46f7-91c8-bd4f775e1bc9">
 
 
 <br/><br/>
