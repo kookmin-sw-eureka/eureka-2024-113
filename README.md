@@ -13,7 +13,7 @@
 
 |이름|박세현|고다연|양기연|홍석준|
 |:---:|:---:|:---:|:---:|:---:|
-|사진|<img src = "https://github.com/user-attachments/assets/cb32babc-21a8-4539-89b8-99ae770b5b41">|<img src = "https://github.com/user-attachments/assets/31c8b374-8362-4a1f-ad6f-7392a8795552">|<img src = "https://github.com/user-attachments/assets/a071b2fe-a878-41f4-b130-c588c1b7cacf">|[Image]|
+|사진|![박세현](https://github.com/user-attachments/assets/d7851c15-3065-4fc0-b300-a86f0744c86d)|![고다연](https://github.com/user-attachments/assets/568e378f-c4c2-48b5-b625-e426e6f70986)|![양기연](https://github.com/user-attachments/assets/e6c124fd-c786-4d90-8175-80565b04e81e)|[Image]|
 |관심사|빅데이터|웹 개발|컴퓨터비전|게임 개발|
 
 <br/><br/>
@@ -27,7 +27,17 @@
 <br/><br/>
 
 ## 🔸한 학기 동안 완료한 활동
-행정실 방문, 
+**행정실 방문, 서버실 방문, 정통처 탐방, 대학원생 인터뷰, 교수님 인터뷰(김영욱 교수님, 허대영 교수님, 이경용 교수님), 멘토링 시스템 체험**
+![행정실 인증샷](https://github.com/user-attachments/assets/413ae69f-ff7a-4586-a3d6-7286908b6402)
+![서버실 인증샷](https://github.com/user-attachments/assets/4032106b-f3c2-4a29-b483-2b6e3ed18f96)
+![정통처 인증샷](https://github.com/user-attachments/assets/03f4832e-a0fd-4427-a768-7d0c0c680cb3)
+![대학원생 인터뷰 인증샷1](https://github.com/user-attachments/assets/04a60543-d841-4ff5-87e2-ef8077298fcd)
+![대학원생 인터뷰 인증샷2](https://github.com/user-attachments/assets/a1f60da3-90b8-4fc4-b619-926cf9d98a80)
+![김영욱 교수님 인증샷](https://github.com/user-attachments/assets/45881f16-5388-42cf-a4d5-854a64a001fb)
+![허대영 교수님 인증샷](https://github.com/user-attachments/assets/988363dc-138d-4f1e-988c-3490149b4e57)
+![이경용 교수님 인증샷](https://github.com/user-attachments/assets/01ac2bd3-62ba-4686-8fe7-3cae66626639)
+<img width="200" alt="멘토링 인증샷" src="https://github.com/user-attachments/assets/5dc4987c-7939-46f7-91c8-bd4f775e1bc9">
+
 
 <br/><br/>
 
