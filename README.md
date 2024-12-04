@@ -13,7 +13,7 @@
 
 |이름|박세현|고다연|양기연|홍석준|
 |:---:|:---:|:---:|:---:|:---:|
-|사진|![image](https://github.com/user-attachments/assets/f36041c3-e79f-4336-b00d-42f95632e478)|![image](https://github.com/user-attachments/assets/3a319957-a2b6-4464-8c3d-a3850796c248)|![image](https://github.com/user-attachments/assets/f1528e41-247b-4086-a62d-11c1bac5b40e)|[Image]|
+|사진|![박세현](https://github.com/user-attachments/assets/f9c4f7f3-0db4-4116-b39c-5b508a74144c)|![고다연](https://github.com/user-attachments/assets/dfa338ee-c45f-49b4-9615-bc3a7df46114)|![양기연](https://github.com/user-attachments/assets/1e42e8fc-f490-4807-8ae5-80cc30537c5e)|[Image]|
 |관심사|빅데이터|웹 개발|컴퓨터비전|게임 개발|
 
 <br/><br/>
